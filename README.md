@@ -1,4 +1,6 @@
-# Lightsaber_single_blade_neopixel
-This code controls a neopixel lightsaber with an Arduino (I ran it on a nano).  It has on/off effects, and slight pulsing of hue and saturation while on.  It also switches to a party mode using the FastLED library for colorful patterns.
-
-Here is a video I created showing the full build process for this saber (including the hilt): https://youtu.be/Dzpe1GVOJXU
+Original Code From Modestrialmaker.
+ - Thanks for the sweet lightsaber video!
+ 
+Goal with this fork is to add accelerometer-based sound to the lightsaber.
+- Accelerometer used: https://www.amazon.com/gp/product/B07FZWFYP3 (speaker is separate, but doesn't require amp)
+- Sound file player used: https://www.adafruit.com/product/2220
